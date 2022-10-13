@@ -8,6 +8,9 @@
     <color name="textColor">#333333</color>
     <color name="textColorHint">#757575</color>
 
+    <color name="sl_tab_color">#13C2C2</color>
+    <color name="un_sl_tab_color">#5E6473</color>
+
     <!-- 按钮按压时的颜色 -->
     <color name="colorButtonPressed">#AB5A8DDF</color>
     <!-- 按钮禁用时的颜色 -->
