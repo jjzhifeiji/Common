@@ -3,6 +3,7 @@ package com.demo.test.ui.share
 import android.app.Activity
 import android.os.Bundle
 import com.hy.dihome.R
+import com.zhifeiji.common.dialog.MessageDialog
 
 class ShareActivity : Activity() {
 
@@ -17,9 +18,6 @@ class ShareActivity : Activity() {
 
     }
 
-    private fun go() {
-
-    }
 
     companion object {
         private const val TAG = "ShareActivity"
