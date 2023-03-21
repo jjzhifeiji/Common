@@ -6,7 +6,7 @@ plugins {
 }
 
 group = 'com.github.zhifeiji'
-version = '1.1'
+version = '1.2'
 
 android {
     compileSdkVersion 33
@@ -70,7 +70,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.zhifeiji.common'
                 artifactId = 'common'
-                version = '0.1.1'
+                version = '0.1.2'
             }
         }
     }
