@@ -59,7 +59,6 @@ dependencies {
     //二维码
     api 'com.itextpdf:itextg:5.5.10'
     api 'com.github.CymChad:BaseRecyclerViewAdapterHelper:3.0.8'
-
 }
 
 
